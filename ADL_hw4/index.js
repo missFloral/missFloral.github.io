@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Miss Bennet eagerly disclaimed all extraordinary merit, and threw back the praise on her sister's warm affection',
+      "Miss Bennet eagerly disclaimed all extraordinary merit, and threw back the praise on her sister's warm affection",
   'example2':
       'Here's Mother, dear, and you shall have another bird tomorrow, if you want it',
   'example3':
