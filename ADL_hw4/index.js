@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Miss Bennet eagerly disclaimed all extraordinary merit',
+      'Miss Bennet eagerly disclaimed all extraordinary merit.',
   'example2':
-      'Here's Mother, dear, and you shall have another bird tomorrow, if you want it',
+      '"Mother, did you go away and let everything be, just to see how we'd get on?" cried Meg, who had had suspicions all day.',
   'example3':
-      'I leave no one to regret me much: I have only a father; and he is lately married, and will not miss me'      
+      'Though I had now extinguished my candle and was laid down in bed, I could not sleep for thinking of his look when he paused in the avenue, and told how his destiny had risen up before him, and dared him to be happy at Thornfield.'      
 };
 
 function status(statusText) {
