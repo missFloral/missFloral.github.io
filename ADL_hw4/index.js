@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Miss Bennet eagerly disclaimed all extraordinary merit.',
   'example2':
-      'I can and I will, though I'm not fond of sewing.',
+      'March came and took her place among them, looking as if her holiday had not been much pleasanter than theirs.',
   'example3':
       'Though I had now extinguished my candle and was laid down in bed, I could not sleep for thinking of his look when he paused in the avenue, and told how his destiny had risen up before him, and dared him to be happy at Thornfield.'      
 };
