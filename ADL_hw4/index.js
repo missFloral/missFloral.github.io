@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Miss Bennet eagerly disclaimed all extraordinary merit, and threw back the praise on her sister's warm affection.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Here's Mother, dear, and you shall have another bird tomorrow, if you want it.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'I leave no one to regret me much: I have only a father; and he is lately married, and will not miss me.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
